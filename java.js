@@ -5,8 +5,10 @@ let songs = [
  {songName: "Kabhi Kabhi Aditi", filePath: "audio/kabhi kabhi aditi.mpeg"},
  {songName: "Ride It", filePath: "audio/ride it.mpeg"},
  {songName: "Samjhava", filePath: "audio/samjhava.mpeg"},
- {songName: "Tum Mile", filePath: "audio/tum mile.mpeg"},
- {songName: "Tum Se Hi", filePath: "audio/tum se hi.mpeg"}
+ {songName: "Tum Mile", filePath: "audio/ishq wala love.mpeg"},
+ {songName: "Tum Se Hi", filePath: "audio/tum se hi.mpeg"},
+ {songName: "Tum Se Hi", filePath: "audio/tum mile.mpeg"},
+ {songName: "Tum Se Hi", filePath: "audio/tum se hi.mpeg"},
 ];
 
 let audioElement = new Audio(songs[0].filePath);
