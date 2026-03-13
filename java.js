@@ -1,14 +1,14 @@
 let songIndex = 0;
 
 let songs = [
- {songName: "Ishq Wala Love", filePath: "audio/ishq wala love.mpeg"},
+ {songName: "Sapphire", filePath: "audio/sapphire.mpeg"},
  {songName: "Kabhi Kabhi Aditi", filePath: "audio/kabhi kabhi aditi.mpeg"},
  {songName: "Ride It", filePath: "audio/ride it.mpeg"},
- {songName: "Samjhava", filePath: "audio/samjhava.mpeg"},
- {songName: "Tum Mile", filePath: "audio/ishq wala love.mpeg"},
+ {songName: "Come see the wonder", filePath: "audio/Come-See-The-Wonder.mp3.mpeg"},
+ {songName: "Tum Mile", filePath: "audio/tum mile.mpeg"},
+ {songName: "Alone", filePath: "audio/alone.mpeg"},
  {songName: "Tum Se Hi", filePath: "audio/tum se hi.mpeg"},
- {songName: "Tum Se Hi", filePath: "audio/tum mile.mpeg"},
- {songName: "Tum Se Hi", filePath: "audio/tum se hi.mpeg"},
+ {songName: "Alone", filePath: "audio/alone.mpeg"},
 ];
 
 let audioElement = new Audio(songs[0].filePath);
